@@ -1,0 +1,22 @@
+.top {
+    height: 1500px;
+    background: rgb(220, 242, 246);
+    background: linear-gradient(180deg, rgba(220, 242, 246, 1) 0%, rgba(140, 226, 244, 1) 25%, rgba(69, 214, 244, 1) 42%, rgba(0, 212, 255, 1) 45%, rgba(41, 211, 245, 1) 65%, rgba(0, 212, 255, 1) 82%, rgba(9, 184, 219, 1) 100%);
+}
+
+.navbar_style {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.navbar-brand img {
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+}
+
+.middle-image{
+   padding-top: 50px;
+   padding-left: 20px;
+    height: 500px;
+}
